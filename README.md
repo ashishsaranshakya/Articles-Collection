@@ -10,7 +10,7 @@ An Android Application for Article Collection
 
 - CRUD Operations for Articles
 - Search Functionality by article title
-- Backend Integration with <a href="https://github.com/ashishsaranshakya/Articles-RESTful-API.git">RESTful API</a>
+- Backend Documentation <a href="https://github.com/ashishsaranshakya/Articles-Collection/blob/main/Backend.md">RESTful API</a>
 - A user-friendly interface with easy access to key features.
 
 ## License
